@@ -1,1 +1,1 @@
-Android application "Diary" written in Kotlin programming language
+# Android application "Diary" written in Kotlin programming language
